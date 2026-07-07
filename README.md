@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed Abdiqani
+# 👋 Hi, I'm Ahmed Abdiqani Hussein
 
 I'm an IT Apprentice (Lærling) in Norway with a passion for technology, cloud computing, and IT support. I enjoy solving technical problems, learning new technologies, and building my skills in both IT operations and software development.
 
